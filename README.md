@@ -2,7 +2,7 @@
 
 - 🌱 Currently a computer science sophomore
 - 😍 Machine learning enthusiast
-- 🔭 I’m currently a frontend projects
+- 🔭 I’m currently working on frontend projects
 - 😎 Serious Otaku
 - 👯 I’m down for any project whatsoever
 - 📫 Let's connect iamkorantengansongherbert@gmail.com
