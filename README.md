@@ -1,4 +1,11 @@
-### Hi there 👋
+# 👋 Hey, Herbert here
+
+- 🌱 Currently a computer science sophomore
+- 😍 Machine learning enthusiast
+- 🔭 I’m currently a frontend projects
+- 😎 Serious Otaku
+- 👯 I’m down for any project whatsoever
+- 📫 Let's connect iamkorantengansongherbert@gmail.com
 
 <!--
 **H-erbie/H-erbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
