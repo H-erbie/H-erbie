@@ -1,8 +1,8 @@
 # 👋 Hey, Herbert here
 
-- 🌱 Currently a computer science sophomore
+- 🌱 Currently a computer science junior
 - 😍 Machine learning enthusiast
-- 🔭 I’m currently working on frontend projects
+- 🔭 I’m currently working on fullstack projects
 - 😎 Serious Otaku
 - 👯 I’m down for any project whatsoever
 - 📫 Let's connect iamkorantengansongherbert@gmail.com
