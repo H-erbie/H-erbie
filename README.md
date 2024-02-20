@@ -1,7 +1,7 @@
 # 👋 Hey, Herbert here
 
 - 🌱 Currently a computer science junior
-- 😍 Machine learning🤖 | Web🕸 | Game Dev🎮 | Mobile📱 | 2D/3D Animation
+- 😍 Machine learning🤖 | Web🕸 | Game Dev🎮 | Mobile📱 | 2D/3D Animation👾
 - 🔭 I’m currently working on fullstack projects
 - 😎 Serious Otaku
 - 👯 I’m down for any project whatsoever
