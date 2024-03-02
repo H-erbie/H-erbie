@@ -2,7 +2,7 @@
 
 - 🌱 Currently a computer science junior
 - 😍 Machine learning🤖 | Web🕸 | Game Dev🎮 | Mobile📱 | 2D/3D Animation👾
-- 🔭 I’m currently working on fullstack projects(MERN)
+- 🔭 I’m currently working on fullstack projects (MERN)
 - 😎 Serious Otaku
 - 👯 I’m down for any project whatsoever
 - 📫 Let's connect iamkorantengansongherbert@gmail.com
